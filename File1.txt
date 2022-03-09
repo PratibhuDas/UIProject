@@ -2,8 +2,11 @@ Hello World....
 
 Change for adding multiple files into staging area...
 
-Change for diff
+Change for diff.
 
-change for bug 123
+change for bug 123.
 
 change for WI4 by team mate , 3 way merge with conflict
+
+Change for bug 123 : 3-way merging with conflict.
+

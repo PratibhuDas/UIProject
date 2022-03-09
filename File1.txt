@@ -11,7 +11,7 @@ change for WI4 by team mate for 3 way merge with conflict
 Change for bug 123 : 3-way merging with conflict.
 
 
-Change for WI5 by team mate to check rebase with conflict
+Change for WI5 by team mate to check rebase with conflict, Change on local master for bug 789.
 
 Change for CR1 rebase with conflict on remote master by team mate for update CR2
 

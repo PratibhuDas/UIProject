@@ -5,3 +5,5 @@ Change for adding multiple files into staging area...
 Change for diff
 
 change for bug 123
+
+change for WI4 by team mate , 3 way merge with conflict

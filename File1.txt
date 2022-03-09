@@ -2,6 +2,6 @@ Hello World....
 
 Change for adding multiple files into staging area...
 
-Change for diff
+Change for diff.
 
-change for bug 123
+Change for bug 123 : 3-way merging with conflict.
